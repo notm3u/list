@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/SgO1OGW5TpeB8mNGL6OXZ1iSiRhaANGBirHpZdJ8Z3M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9m/L2Y4L1J0azFfMjAx/My5wbmc", RTK
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/dmp-rur-lsn-tv5/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/lZQEB63BT-WojIjGCHShVshXBlAbTdZE8vYDrCJxNMw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzFiL1JUSzNfbG9n/b181YWM0MmJjZmQx/YTRkLnBuZw", RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/ume-3p1-sao-ssa/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/TzPYFU03rPjovHw02hQxiYDcpZMnNl5rQ11LYTnXE40/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzRmL1JUVl8yMV9M/b2dvLnBuZw", RTV 21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/ibSuwKUes3i_VdHVxmq0157kWVoB3wRt2D_wZV38zFA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8yLzI1L0tv/aGF2aXNpb25fTG9n/by5wbmcvMjIwcHgt/S29oYXZpc2lvbl9M/b2dvLnBuZw", KTV
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/HxZCpM-MBQp1DIhG0dB6Jv7K28xyR5ueXbLI6xGE5CA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3JJ/eWVFR25SNDRZM1k0/SS0yV1pwTHF6cjA1/V21WUnd1ZHZGWU1x/VGhTUE5YZmtBQUFi/b0U3ZlBEbEpzUXFt/UThMdUttSnhJSFYt/ND1zOTAwLWMtay1j/MHgwMGZmZmZmZi1u/by1yag", ATV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/VpLgHm26h30jaotkZE7PANDhz_lziUN0QTq5Z3km4yg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL0Jr/UDFFZWM5OWNEODg3/LTdKMGpRU0tweWla/QnNPbWptZnF4SGp2/SFFaTXJEY00zYmVU/Snp3eF95U1c1elhx/Y2FnT0NfZTFyNkZR/PXM5MDAtYy1rLWMw/eDAwZmZmZmZmLW5v/LXJq", T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/o1iMVimRHaiZCq-tYYf2vCJ85EYjXKM4bpq5G6PBcLo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hbGJh/bmlhLm1vbS1nbXIu/b3JnL3VwbG9hZHMv/dHhfbGZyb2dtb20v/bWVkaWEvODI2OC0y/MzU0X2ltcG9ydC5w/bmc", Euronews Albania
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/7News_logo_61eb498c56a98_thumb.jpg", Kanali 7
+https://mfe01.tring.al/delta/105/out/u/987_1.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/BB-ryXMPxjg979znavHmub9DK1wcFBMzXAEM_l1xCgM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS8xZDZUYVdDbWNi/RWZyVTRFTFlVajJr/RmtFNUNOLTZjN3Zy/cElOU19CZlRsMnZW/d0NIdl9LV3FTbkN1/NFNqcVlIajRz", A2 CNN
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2h7-5bc-xym-0k2/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/1LFI1qB7wZPnDsnlm6t1EHG2SG-kGk9fC6CuqkWmsnM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nMGV5/bGoxcnpqLmdqaXJh/ZmEubmV0L21lZGlh/L3p6Z3lxZy90aHVt/Ym5haWxzL3JldGlu/YS5qcGc", PRO1
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/HE_3lkvutQlT2mRrHLnRRc0FwMk1xxZSB5ks7mzqJZw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9saXZl/LXR2LWNoYW5uZWxz/Lm9yZy9tZWRpYS90/di1sb2dvL2FydGEt/dHYtMTQ3OC53ZWJw", Arta News
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zzy1kt/thumbnails/standart.jpg", TV News
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/js0-h8f-ifx-29f/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://g0eylj1rzj.gjirafa.net/media/y10z1k/thumbnails/standart.jpg", SYRI VISION
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zztyzt/thumbnails/standart.jpg", RTV Besa
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/ZYB6xB54Jkapftpmo3xxYmRDblX84QEa3fsjBGVMQ_I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9va3Rl/dmUuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9tZWRpYS85NTVl/OTQ2YWZiNjI3NWQ2/YjBhMDNjMTUyMTc2/MDM5YS5qcGVn", TV Dielli
+https://t3.tvmak.com/tv/TVDIELLI.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/xvJ86tbXcQKUIywcrd1OkhRqMlLmj7Og2AUTFERl7c4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbnRl/cm5ldC10ZWxldmlz/aW9uLm5ldC91cGxv/YWRzL3Bvc3RzLzIw/MjMtMDIvemljby10/di53ZWJw", ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/OeUVR6rpQZPP7spfFCCw6Q_VL7UxgO3Tak90jTLlqXs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL19x/RGNTUlMyTGNPWXhl/dW9mOUM1eVNreXZE/TURhN3ZoUzNUdDBB/QUlyWTQ1RXAtaURX/M1JhT1hvX05BZzY4/d1ZBQ1BES013ZGk3/UT1zOTAwLWMtay1j/MHgwMGZmZmZmZi1u/by1yag", TopEstrada TV
+https://t2.tvmak.com/tv/TOPESTRADATV.m3u8
+#EXTINF:-1 tvg-logo="https://tvmak.com/img/tv/mtvkosova.png", MTV KOSOVA
+https://t3.tvmak.com/tv/mtvkosova.m3u8
+#EXTINF:-1 tvg-logo="https://tvmak.com/img/tv/turbochannel.png", Turbo Channel
+https://t1.tvmak.com/tv/turbochannel.m3u8
+#EXTINF:-1 tvg-logo="https://tvmak.com/img/tv/amoltv.png", AMOL TV
+https://t1.tvmak.com/tv/AMOL.m3u8
+#EXTINF:-1 tvg-logo="https://tvmak.com/img/tv/rtv21mix.png", RTV 21 MIX
+https://t1.tvmak.com/tv/RTV21MIX.m3u8
+#EXTINF:-1 tvg-logo="https://tvmak.com/img/tv/rtv21plus.png", RTV 21 PLUS
+https://t3.tvmak.com/tv/RTV21PLUS.m3u8
+#EXTINF:-1 tvg-logo="https://tvmak.com/img/tv/rtv21junior.png", RTV 21 JUNIOR
+https://t3.tvmak.com/tv/RTV21JUNIOR.m3u8
